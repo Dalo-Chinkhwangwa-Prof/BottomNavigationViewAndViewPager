@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/incoming_menu_item"
+        android:icon="@drawable/ic_incoming"
+        android:title="Incoming Calls" />
+    <item
+        android:id="@+id/outgoing_menu_item"
+        android:icon="@drawable/ic_outgoing"
+        android:title="Outgoing Calls" />
+    <item
+        android:id="@+id/missed_menu_item"
+        android:icon="@drawable/ic_missed"
+        android:title="Missed Calls" />
+
+</menu>
